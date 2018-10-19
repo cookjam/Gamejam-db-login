@@ -1,2 +1,2 @@
 # Gamejam-login-db
-로그인 &amp; DB 기능
+로그인, DB 모듈
