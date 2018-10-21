@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1050213464990",
+    "firebase_url": "https://gamejam-module-test.firebaseio.com",
+    "project_id": "gamejam-module-test",
+    "storage_bucket": "gamejam-module-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050213464990:android:562272012acaa5a8",
+        "android_client_info": {
+          "package_name": "com.cookapps.gamejamModuleTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050213464990-09rtjdcgjudqacdvb5rrumoq2b3qrbm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookapps.gamejamModuleTest",
+            "certificate_hash": "0b5a841c1f272330b1bc890cfb32b15b72cf81e7"
+          }
+        },
+        {
+          "client_id": "1050213464990-ceqd299q80dj22lmounvhcsvv07iih47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjSewMwmlxPIxTWiLm4ZjP98mx1_zRxSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050213464990-ceqd299q80dj22lmounvhcsvv07iih47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-6330011895576333~6717951519"
+    }
+  ],
+  "configuration_version": "1"
+}
