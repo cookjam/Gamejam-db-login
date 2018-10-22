@@ -243,8 +243,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/GIT/cookjam/Gamejam-db-login/user.keystore
-  AndroidKeyaliasName: moduletest
+  AndroidKeystoreName: E:/ca_git/cookjam/Gamejam-db-login/cookapps-gamejam-1st.keystore
+  AndroidKeyaliasName: maidraid
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
